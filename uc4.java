@@ -85,7 +85,7 @@ class Guest {
 }
 
 // Main Class
-public class UseCase4RoomSearch {
+public class uc4 {
     public static void main(String[] args) {
 
         // Step 1: Create Room Catalog (Domain Objects)
